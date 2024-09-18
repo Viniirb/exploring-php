@@ -26,5 +26,6 @@
         - Utilizar o padrão camelCase
         - As variáveis são case-sensitive
         - Não utilizar palavras reservadas
+        - Utilizar nomes que façam sentido 
     */
 ?>
